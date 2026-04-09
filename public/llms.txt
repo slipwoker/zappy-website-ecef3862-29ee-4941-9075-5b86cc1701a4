@@ -1,85 +1,72 @@
-# זיוש — Generative Engine Optimization Map
-
-> A עיצוב ומוצרים לילדים business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### Home
-https://-ecef3862.zappy5.app
+https://example.com
 
 ### About
-https://-ecef3862.zappy5.app/about
-
-### Collections
-https://-ecef3862.zappy5.app/collections
+https://example.com/about
 
 ### Contact
-https://-ecef3862.zappy5.app/contact
+https://example.com/contact
 
 ### Products
-https://-ecef3862.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - זיוש
 
 ### Cart
-https://-ecef3862.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-ecef3862.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-ecef3862.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-ecef3862.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-ecef3862.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-ecef3862.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - זיוש
 
 ### Category
-https://-ecef3862.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - זיוש
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-ecef3862.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-ecef3862.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-ecef3862.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About זיוש
-זיוש is a business in the עיצוב ומוצרים לילדים industry.
-
-## Target Audience
-ילדות
-
-## Industry
-עיצוב ומוצרים לילדים
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://-ecef3862.zappy5.app/sitemap.xml
-- **Robots.txt**: https://-ecef3862.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
